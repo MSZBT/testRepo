@@ -1,4 +1,5 @@
 function updateFile() {
+    console.log('gur')
     const token = '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';
     const owner = 'MSZBT';
     const repo = 'testRepo';
